@@ -1,0 +1,1 @@
+I’ve had this set up for a while because using ssh is easier than typing my username and password for each push in the terminal. Adding the keys to github is also pretty easy. The one issue I have here is that as a computer science class, asking for photos with ssh keys is incredibly insecure.
